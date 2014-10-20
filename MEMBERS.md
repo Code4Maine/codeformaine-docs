@@ -8,19 +8,19 @@ out of sync with reality if we're not careful.
 Brigade Co-Captains
 -------------------
 
-  * Andrew Jawitz
-  * Garrett Wilikin
+Core Leadership Team
+--------------------
 
-Leadership Team
----------------
-
-  * Colin Powell, Delivery Lead
-  * 
+  * Andrew Jawitz, Co-Captain
+  * Garrett Wilikin, Co-Captain
+  * Colin Powell, Delivery Lead [Description](http://goo.gl/dCfkpZ)
+  * ??,  Community Organizer [Description](http://goo.gl/U1YJik)
+  * ??, Storyteller [Description](http://goo.gl/QmuRsp)
 
 Members at Large
 ----------------
 
   * JenTheHappyGeek
-  * Jaime
+  * Jaime Smith
   * Jaques Tardie
   * Justin Meacham
