@@ -52,17 +52,13 @@ Core Leadership Team
 Annual Priorities
 -----------------
 
-We have selected the City of Bangor to serve as our main municipal partner
-and area of focus this year. 
+Build a core group of 20 members in the Bangor Municipal Partner Area.
 
-We will also be highlighting several ongoing campaigns from around the state
-wherein a major  partnering organization is involved. 
+Build at least two substantial municipal relationships in the Bangor MPA.
 
-As one of the “original 8” brigades, we would like to contribute our expertise 
-to help newer  brigades, especially others from rural regions and small cities.
-     
-Likewise, we would be willing to participate in multi­regional campaigns with 
-other brigades in the northeast region.
+Deploy at least one marquee project in the Bangor MPA.
+
+Create a working group and create a first draft of a document to help municipalities build public internet services.
 
 Strategy & Tactics
 ------------------
@@ -76,7 +72,7 @@ lasting campaigns require local, face to face events to sustain them.
 Therefore we have devised a two part strategy to balance our role as a nexus of regional 
 collaboration with the potential to make a lasting impact in public sector life. 
 
-### Municipal Partner= City of Bangor
+### Municipal Partner - City of Bangor
 
 In order to most effectively leverage resources in one area we will be prioritizing our 
 relationship with the City of Bangor as our primary municipal partner with which to build an 
