@@ -24,3 +24,4 @@ Members at Large
   * Jaime Smith
   * Jaques Tardie
   * Justin Meacham
+  * Kitty Wilikin
