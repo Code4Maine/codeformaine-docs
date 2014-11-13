@@ -11,9 +11,9 @@ Brigade Co-Captains
 Core Leadership Team
 --------------------
 
-  * Andrew Jawitz, Co-Captain [Email](mailto:ajawitz@codeforamerica.org)
-  * Garrett Wilikin, Co-Captain [Email](mailto:gwilikin@codeforamerica.org)
-  * Colin Powell, Delivery Lead [Description](http://goo.gl/dCfkpZ) |  [Email](mailto:colin.powell@gmail.com)
+  * [Andrew Jawitz](mailto:ajawitz@codeforamerica.org), Co-Captain
+  * [Garrett Wilikin](mailto:gwilikin@codeforamerica.org), Co-Captain
+  * [Colin Powell](mailto:colin.powell@gmail.com), Delivery Lead [Description](http://goo.gl/dCfkpZ)
   * Jaime Smith,  Community Organizer [Description](http://goo.gl/U1YJik)
   * ??, Storyteller [Description](http://goo.gl/QmuRsp)
 
