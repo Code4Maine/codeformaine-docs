@@ -12,15 +12,16 @@ Core Leadership Team
 --------------------
 
   * [Andrew Jawitz](mailto:ajawitz@codeforamerica.org), Co-Captain
-  * [Garrett Wilikin](mailto:gwilikin@codeforamerica.org), Co-Captain
+  * [Garrett Wilkin](mailto:gwilkin@codeforamerica.org), Co-Captain
   * [Colin Powell](mailto:colin.powell@gmail.com), Delivery Lead [Description](http://goo.gl/dCfkpZ)
-  * Jaime Smith,  Community Organizer [Description](http://goo.gl/U1YJik)
+  * [Jaime Smith](mailto:jsmith2447@gmail.com),  Community Organizer [Description](http://goo.gl/U1YJik)
   * ??, Storyteller [Description](http://goo.gl/QmuRsp)
 
 Members at Large
 ----------------
 
+  * [Sarah Newcomb](sarah.newcomb@maine.edu)
   * JenTheHappyGeek
-  * Jaques Tardie
+  * [Jacques Tardie](hi@jacquestardie.org)
+  * [Kitty Wilkin](kitty.wilkin@gmail.com)
   * Justin Meacham
-  * Kitty Wilikin
