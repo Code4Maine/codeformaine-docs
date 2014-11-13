@@ -21,6 +21,7 @@ Members at Large
 ----------------
 
   * [Sarah Newcomb](sarah.newcomb@maine.edu)
+  * [Chris Bond](chrisjamesbond@gmail.com)
   * JenTheHappyGeek
   * [Jacques Tardie](hi@jacquestardie.org)
   * [Kitty Wilkin](kitty.wilkin@gmail.com)
