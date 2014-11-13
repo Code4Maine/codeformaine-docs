@@ -13,7 +13,7 @@ Core Leadership Team
 
   * Andrew Jawitz, Co-Captain
   * Garrett Wilikin, Co-Captain
-  * Colin Powell, Delivery Lead [Description](http://goo.gl/dCfkpZ)
+  * Colin Powell, Delivery Lead [Description](http://goo.gl/dCfkpZ) [Email](colin.powell@gmail.com)
   * ??,  Community Organizer [Description](http://goo.gl/U1YJik)
   * ??, Storyteller [Description](http://goo.gl/QmuRsp)
 
