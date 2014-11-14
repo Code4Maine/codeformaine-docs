@@ -11,8 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   welcome
-   about-us
+   about-code-for-maine
    getting-started
    how-we-communicate
    organization
