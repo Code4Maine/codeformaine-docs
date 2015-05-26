@@ -1,5 +1,5 @@
-Welcome to Code for Maine's Operations Repo
-============================================
+Code for Maine's Operations Repo
+===================================
 
 Like any good social coding outfit in the 21st century, we're using Github to manage documents and issues related to the general operation of our organization. Unfortunately, if you're not already familiar with Github this can be really daunting to get your head around, so ...
 
