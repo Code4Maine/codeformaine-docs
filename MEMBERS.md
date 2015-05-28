@@ -26,3 +26,5 @@ Members at Large
   * [Jacques Tardie](hi@jacquestardie.org)
   * [Kitty Wilkin](kitty.wilkin@gmail.com)
   * Justin Meacham
+  * [Nick Kaufmann](nkauf87@gmail.com)
+  * [Max Terry](mhterry@gmail.com )
