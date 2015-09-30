@@ -1,6 +1,12 @@
 Documentation Versions
 ======================
 
+1.2.0
+-----
+
+  * Restructure the index file
+  * Add roles in the RST format
+
 1.1.0
 ------
 
