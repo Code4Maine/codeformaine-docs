@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/code4maine/code4maine-ops.png?label=ready&title=Ready)](https://waffle.io/code4maine/code4maine-ops)
+
 Code for Maine's Operations Repo
 ===================================
 

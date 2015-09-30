@@ -67,16 +67,15 @@ Panel: Building a 21st Century Transporation Network
 ~~~~~~~~~~~~~~~~~~~
 
 * SimpliCity product, provide answers to common questions
-
+* CityVoice app to solicite feedback with phone numbers and signs
+* Understanding your users
 
 ---------------------------
 Ideas from 2015 CfA Summit
 ---------------------------
 
-* Improving foods stamp process
+* Improving food stamp process
 * Mapping pedestrian and bike traffic
 * Providing a digital front door for users to get off on the right foot
-* Audio interview booths in the city for documenting ways things can be improved
-* Story booths about how the government has or hasn't worked for you
-* Provide a website with a mobile view where you can record and submit your story
 * Find simple ways to answer user questions (first need the data)
+* Look into what it would take to implement CityVoice in Bangor and Portland
