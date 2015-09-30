@@ -12,3 +12,4 @@ How to get started with Code for Maine
 3. [Review our Google Group archives](https://groups.google.com/a/codeforamerica.org/forum/#!forum/maine-brigade)
 
 Lastly, if you really want to you can start digging through this repo, but it's like drinking from a firehose, so watch out!
+
