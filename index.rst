@@ -11,12 +11,26 @@ First off, thank you for taking the time to browse our documentation. Below you'
 Secondly, by being a citizen in your town in Maine, you're already a member of Code for Maine, whether you know it or not. CfM exists as a Brigade of Code for America with a goal of enabling government to work for you, and, more importatnly, to give you ways to work for your government.
 
 .. toctree::
-   :maxdepth: 8
+   :caption: Initiation Packet
+   :maxdepth: 1
    :glob:
 
    initiation-packet/*
+
+.. toctree::
+   :caption: Roles
+   :maxdepth: 1
+   :numbered:
+
+   roles.rst
+
+.. toctree::
+   :caption: Event Notes
+   :maxdepth: 1
+   :glob:
+   :numbered:
+
    events/*
-   events/cfa-summits/*
 
 
 Indices and tables

@@ -1,3 +1,5 @@
+==========
+Captain
 Mission
 -------
 The Captain role in the Brigades is to set leadership goals on a quarterly

@@ -1,10 +1,8 @@
-=============================
+============================
 Code for America Summit 2015
-=============================
+============================
 
----------------------------------
 30 September, 2015 - Oakland, CA
----------------------------------
 
 Attended by Colin Powell, CfM Delivery Lead and Ben Sprague, Bangor City Councilor
 
@@ -70,9 +68,22 @@ Panel: Building a 21st Century Transporation Network
 * CityVoice app to solicite feedback with phone numbers and signs
 * Understanding your users
 
----------------------------
+Building Data Standards on Github
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Mark Headd, Philip Ashlock, and Renata Maziarz
+* Not a compliance exercise, about making data more accessible, not just for public, but also decision makers
+* Better Data, Better Decisions, Better Government
+* Machine read-able, platform independent
+* Who are thes stakeholders?
+* Maziarz: Be open by default
+* Have a plan for responding to feedback
+* Got criticism about lack of response to responses ... need handlers/people responsible
+* Don't get cold feet
+* Ashlock: 
+
 Ideas from 2015 CfA Summit
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Improving food stamp process
 * Mapping pedestrian and bike traffic

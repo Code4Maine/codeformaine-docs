@@ -1,5 +1,5 @@
-Code 4 Maine 2014 Strategic Plan
-================================
+Code for Maine 2014 Strategic Plan
+==================================
 
 ##Lessons from our Inaugural Year
 
